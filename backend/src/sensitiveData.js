@@ -1,0 +1,1 @@
+module.exports = { connectDB: 'mongodb+srv://humberto:humberto@cluster0-83ocq.mongodb.net/tindev?retryWrites=true&w=majority' };
