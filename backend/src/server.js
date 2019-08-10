@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 
 const routes = require('./routes');
-const sensitiveData = require('./sensitiveData');
+const sensitiveData = require('./sensitiveData/sensitiveData.js');
 
 const app = express();
 const server = require('http').Server(app);
