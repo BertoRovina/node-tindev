@@ -15,4 +15,4 @@ The project has a desktop version as well as a mobile version for iOS and Androi
 * React-native
 * Node.js
 * MongoDB
-
+* Axios
